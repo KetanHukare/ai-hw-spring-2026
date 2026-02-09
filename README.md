@@ -1,4 +1,5 @@
 # MNIST Image Recognition Neural Networks
+## Assignment for AI Class 2026 Spring
 
 A comparison of three neural network architectures for MNIST digit classification.
 
